@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Firman Ardiansyah</h1>
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
-
+<img src="https://i.ibb.co/sQybpy5/Developer-activity-bro.png" height="450" width="450" alt="Developer-activity-bro" align="center" border="0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NekoSukuriputo&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter, Dart, Laravel**
 
