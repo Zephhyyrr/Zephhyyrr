@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firman Ardiansyah</h1>
-<h3 align="center">A student from Politeknik Negeri Padang, Study Program Software Enggineering</h3>
+<h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephhyyrr" alt="zephhyyrr" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Laravel**
 
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zephhyyrr&show_icons=true&locale=en" alt="zephhyyrr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephhyyrr&" alt="zephhyyrr" /></p>
-
