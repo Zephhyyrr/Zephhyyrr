@@ -2,8 +2,7 @@
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NekoSukuriputo&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Laravel**
 
