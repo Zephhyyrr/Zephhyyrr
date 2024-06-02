@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firman Ardiansyah</h1>
 <p align="center">
-<img src="https://cdni.iconscout.com/illustration/free/thumb/free-developer-team-2043022-1731280.png?f=webp" alt="Developer-activity-bro" align="center" border="0">
+<img src="https://static.vecteezy.com/system/resources/previews/008/158/332/original/software-developer-illustration-in-colored-design-vector.jpg" alt="Developer-activity-bro" align="center" border="0">
 </p>
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
 
