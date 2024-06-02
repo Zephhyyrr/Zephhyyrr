@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firman Ardiansyah</h1>
 <p align="center">
-<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" height="450" width="450" alt="Developer-activity-bro" align="center" border="0">
+<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" alt="Developer-activity-bro" align="center" border="0">
 </p>
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
 
