@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firman Ardiansyah</h1>
 <p align="center">
-<img src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e" alt="Developer-activity-bro" align="center" border="0" width="450">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB3bGlheXFieW5hb3ZmZm5weml2eDkzamJmbnFmdDA3dzVjMTdwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.webp" alt="Developer-activity-bro" align="center" border="0" width="450">
 </p>
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang, "I'm trying to be better."</h3>
 
