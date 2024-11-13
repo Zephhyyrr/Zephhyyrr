@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephhyyrr&theme=dark" alt="zephhyyrr" /></p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Zephhyyrr/langs)](https://githubtrends.io)
