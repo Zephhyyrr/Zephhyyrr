@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zephhyyrr&show_icons=true&locale=en&theme=dark" alt="zephhyyrr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephhyyrr&theme=dark" alt="zephhyyrr" /></p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
