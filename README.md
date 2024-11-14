@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
 
-
-- 🌱 I’m currently learning **Android, Kotlin, Vue.js, Laravel**
-
 - 📫 How to reach me **ardiansyahfirman2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
