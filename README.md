@@ -14,7 +14,7 @@
 <a href="https://instagram.com/firman.ard04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firman.ard04" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephhyyrrt&theme=dark" alt="zephhyyrr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephhyyrrt" alt="zephhyyrr" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zephhyyrr&show_icons=true&locale=en&layout=compact&theme=dark" alt="zephhyyrr" /></p>
 
