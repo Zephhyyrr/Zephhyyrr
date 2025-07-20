@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB3bGlheXFieW5hb3ZmZm5weml2eDkzamJmbnFmdDA3dzVjMTdwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.webp" alt="Developer-activity-bro" align="center" border="0" width="450">
 </p>
-<h3 align="center">"Lifelong Learner, trying to be better."</h3>
+<h3 align="center">"Lifelong Learner, Trying To Be Better."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zephhyyrr" /> </p>
 
