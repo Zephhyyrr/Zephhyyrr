@@ -14,14 +14,18 @@
 <a href="https://instagram.com/firman.ard04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firman.ard04" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi" alt="Profile Details" width="800px" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi" alt="Repos Per Language" width="390px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi" alt="Most Commit Language" width="390px" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi" alt="Stats" width="390px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0" alt="Productive Time" width="390px" />
+<div align="center" style="padding: 20px;">
+  <div style="margin-bottom: 25px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi" alt="Profile Details" width="800px" style="display: block; margin: 0 auto;" />
+  </div>
+  <div style="margin-bottom: 15px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi" alt="Repos Per Language" width="390px" style="margin-right: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi" alt="Most Commit Language" width="390px" style="margin-left: 10px;" />
+  </div>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi" alt="Stats" width="390px" style="margin-right: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0" alt="Productive Time" width="390px" style="margin-left: 10px;" />
+  </div>
 </div>
 
 <picture>
