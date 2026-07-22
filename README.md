@@ -14,23 +14,11 @@
 <a href="https://instagram.com/firman.ard04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firman.ard04" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zephhyyrr&theme=darkhub" alt="zephhyyrr" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zephhyyrr&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="zephhyyrr" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zephhyyrr&show_icons=true&locale=en&theme=github_dark" alt="zephhyyrr" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zephhyyrr&theme=github-dark-blue" alt="zephhyyrr" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephhyyrr/Zephhyyrr/output/pacman-contribution-graph-dark.svg">
