@@ -17,12 +17,16 @@
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,go,py,ts,html,css,vue,nuxt,tailwind,bootstrap&perline=10" alt="Languages and Frontend" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,kotlin,html,css,tailwind,bootstrap&perline=9" alt="Languages and Frontend" />
 </a>
 <br><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx&perline=10" alt="Backend, DB, and DevOps" />
+    <img src="https://skillicons.dev/icons?i=figma,vue,nuxt,express,laravel,flask,mysql,postgres,mongodb&perline=9" alt="Design, Frameworks and DB" />
+</a>
+<br><br>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,prisma,supabase,firebase,docker,nginx,git,github,gitlab&perline=9" alt="Tools, BaaS, and DevOps" />
 </a>
 </div>
 
