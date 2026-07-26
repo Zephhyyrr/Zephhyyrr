@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,kotlin,html,css,tailwind,bootstrap&perline=9" alt="Languages and Frontend" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,py,go,html,css,tailwind,bootstrap&perline=9" alt="Languages and Frontend" />
 </a>
 <br><br>
 <a href="https://skillicons.dev">
