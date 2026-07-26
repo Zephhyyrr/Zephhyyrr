@@ -14,6 +14,21 @@
 <a href="https://instagram.com/firman.ard04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firman.ard04" height="30" width="40" /></a>
 </p>
 
+## 💻 Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,go,py,ts,express,laravel&perline=10" alt="Languages and Backend" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,html,css,bootstrap,mysql,postgres,prisma,firebase,docker,nginx&perline=11" alt="Frontend, DB, and DevOps" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/MVVM%20Architecture-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="MVVM Architecture" />
+</div>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi)
