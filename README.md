@@ -22,7 +22,7 @@
 </a>
 <br><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx&perline=9" alt="Backend, DB, and DevOps" />
+    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx, tailwind&perline=9" alt="Backend, DB, and DevOps" />
 </a>
 </div>
 
