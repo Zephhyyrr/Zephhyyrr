@@ -18,27 +18,25 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,android,go,py,ts,express,laravel&perline=10" alt="Languages and Backend" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,html,css,bootstrap,mysql,postgres,prisma,mongodb,firebase,docker,nginx&perline=12" alt="Frontend, DB, and DevOps" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=kotlin,go,py,ts,html,css,vue,nuxt,bootstrap&perline=9" alt="Languages and Frontend" />
+</a>
+<br><br>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx&perline=9" alt="Backend, DB, and DevOps" />
+</a>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0) 
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Zephhyyrr&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Zephhyyrr"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephhyyrr&theme=holi" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zephhyyrr&theme=holi" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zephhyyrr&theme=holi" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0" alt="Productive Time" />
+  <br><br>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Zephhyyrr&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/Zephhyyrr" width="600" height="300" alt="GitAnimals Farm" />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephhyyrr/Zephhyyrr/output/pacman-contribution-graph-dark.svg">
