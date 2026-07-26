@@ -20,6 +20,14 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephhyyrr&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zephhyyrr&theme=holi&utcOffset=0) 
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Zephhyyrr&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Zephhyyrr"
+  width="600"
+  height="300"
+/>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephhyyrr/Zephhyyrr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephhyyrr/Zephhyyrr/output/pacman-contribution-graph.svg">
