@@ -18,11 +18,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,go,py,ts,html,css,vue,nuxt,bootstrap&perline=9" alt="Languages and Frontend" />
+    <img src="https://skillicons.dev/icons?i=kotlin,go,py,ts,html,css,vue,nuxt,tailwind,bootstrap&perline=9" alt="Languages and Frontend" />
 </a>
 <br><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx, tailwind&perline=9" alt="Backend, DB, and DevOps" />
+    <img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,mongodb,prisma,firebase,docker,nginx&perline=9" alt="Backend, DB, and DevOps" />
 </a>
 </div>
 
